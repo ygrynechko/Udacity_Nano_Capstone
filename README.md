@@ -30,14 +30,14 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 
 The project is organized along the following steps:
 
-    Intro
-    Step 0: Import Datasets
-    Step 1: Detect Humans
-    Step 2: Detect Dog
-    Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
-    Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
-    Step 5: Write Your Algorithm
-    Step 6: Test Your Algorithm
+* [Step 0] Import Datasets
+* [Step 1] Detect Humans
+* [Step 2] Detect Dogs
+* [Step 3] Create a CNN to Classify Dog Breeds (from Scratch)
+* [Step 4] Use a CNN to Classify Dog Breeds (using Transfer Learning)
+* [Step 5] Create a CNN to Classify Dog Breeds (using Transfer Learning)
+* [Step 6] Write your Algorithm
+* [Step 7] Test Your Algorithm
 
 ### Findings <a name="findings"></a>
 
