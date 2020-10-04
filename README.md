@@ -46,4 +46,42 @@ The project is organized along the following steps:
 * The model was not working well with pictures with a lot of noise. 
 * The model would recognize only one dog breed from the picture, in the future release change it to recognize all the dogs on the picture.
 
+### Get started <a name="Get started"></a>
 
+git clone https://github.com/ygrynechko/Udacity_Nano_Capstone
+
+and run dog_app.ipynb in jupyter notebook
+
+
+Jupyter notebook must be installed. Python must be installed. The following python modules must be installed.
+
+opencv-python
+
+jupyter
+
+matplotlib
+
+pandas
+
+numpy
+
+pillow
+
+scipy
+
+tqdm
+
+scikit-learn
+
+scikit-image
+
+seaborn
+
+h5py
+
+ipykernel
+
+bokeh
+
+
+The step by step project is here: https://github.com/ygrynechko/Udacity_Nano_Capstone/blob/master/dog_app.ipynb
