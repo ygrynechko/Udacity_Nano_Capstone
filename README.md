@@ -41,7 +41,9 @@ The project is organized along the following steps:
 
 ### Findings <a name="findings"></a>
 
-* The model achieved a test accuracy of 77.99%, which is above the 60% established accuracy threshold.
-* The model predicted the same two or three breeds when identifying an image as human. Therefore more variety is needed concerning the type of breeds the model predicts for humans. 
-* Some of the breeds have similar colors and shapes but differ in size, as is the case between a Beagle and a Pointer or American Foxhound. Therefore the model needs to pick up subtle differences between similar breeds. 
-* The model could use some improvements on its ability to classify pictures with noise. This is probably due to the images it was trained on.
+* The model achieved a test accuracy of 77%, which is above the 60% established accuracy threshold.
+* Model needs improvement to recognize breeds that are similar. 
+* The model was not working well with pictures with a lot of noise. 
+* The model would recognize only one dog breed from the picture, in the future release change it to recognize all the dogs on the picture.
+
+
