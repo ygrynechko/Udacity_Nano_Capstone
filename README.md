@@ -10,6 +10,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 2. [File Descriptions](#files)
 3. [Content](#contents)
 4. [Findings](#findings)
+5. [Get started](#getstarted)
 
 ### Libraries <a name="libraries"></a>
 
@@ -46,7 +47,7 @@ The project is organized along the following steps:
 * The model was not working well with pictures with a lot of noise. 
 * The model would recognize only one dog breed from the picture, in the future release change it to recognize all the dogs on the picture.
 
-### Get started <a name="Get started"></a>
+### Get started <a name="getstarted"></a>
 
 git clone https://github.com/ygrynechko/Udacity_Nano_Capstone
 
@@ -83,4 +84,4 @@ ipykernel
 bokeh
 
 
-##The step by step project is here: https://github.com/ygrynechko/Udacity_Nano_Capstone/blob/master/dog_app.ipynb
+## The step by step project is here: https://github.com/ygrynechko/Udacity_Nano_Capstone/blob/master/dog_app.ipynb
