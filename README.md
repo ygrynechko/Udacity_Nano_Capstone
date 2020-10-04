@@ -84,4 +84,4 @@ ipykernel
 bokeh
 
 
-## The step by step project is here: https://github.com/ygrynechko/Udacity_Nano_Capstone/blob/master/dog_app.ipynb
+#### The step by step project is here: https://github.com/ygrynechko/Udacity_Nano_Capstone/blob/master/dog_app.ipynb
